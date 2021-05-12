@@ -1,2 +1,2 @@
 # Recreando-StyledComponent
-Tratando de recrear la idea de StyledComponent utilizando JavaScript vainilla
+Tratando de recrear StyledComponent utilizando JavaScript y los Tagged Templates para el curso de Leónidas Esteban de JavaScript Avanzado para ReactJs
